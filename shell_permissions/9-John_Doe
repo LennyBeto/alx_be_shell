@@ -1,3 +1,4 @@
 #!/bin/bash
 chmod 731 hello
+chmod +x lenny_beto.sh
 
