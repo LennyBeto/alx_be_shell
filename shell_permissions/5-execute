@@ -1,0 +1,4 @@
+#!/bin/bash
+chmod u+x hello
+chmod +x add_execute.sh
+./add_execute.sh
