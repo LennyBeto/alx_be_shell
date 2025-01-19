@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod 731 hello, +x lenny_beto.sh
-
+chmod 731 hello && chmod +x lenny_beto.sh
